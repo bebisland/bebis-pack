@@ -1,10 +1,9 @@
 {
-	"format_version": "1.21.6",
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "block/block",
 	"textures": {
-		"0": "item/bebis",
-		"particle": "item/bebis"
+		"0": "block/bebis",
+		"particle": "block/bebis"
 	},
 	"elements": [
 		{
