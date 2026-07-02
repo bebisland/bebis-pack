@@ -1,7 +1,10 @@
 {
-  "pack": {
-    "description": "bebis pack!",
-    "min_format": [69, 0],
-    "max_format": [2147483647, 0]
-  }
+    
+    "pack": {
+
+        "description": "§eBebis Pack",
+        "pack_format": 84,
+        "min_format": 84,
+        "max_format": 84
+    }
 }
